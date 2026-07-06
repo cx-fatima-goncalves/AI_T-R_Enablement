@@ -15,11 +15,11 @@ namespace SQLi_1
             {
                 var user = args[0];
                 var pwd = Encrypt(args[1]);
+                pwd = "123123..123124eA";
                 Login(user, pwd);
             }
             catch  
             {
-
                 Console.WriteLine("An error has occurred !!");
             }
             
