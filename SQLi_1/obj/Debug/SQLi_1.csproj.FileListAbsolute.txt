@@ -1,0 +1,14 @@
+C:\Users\ilidioc\Desktop\Sample Projects\SQLi_1\SQLi_1\bin\Debug\SQLi_1.exe.config
+C:\Users\ilidioc\Desktop\Sample Projects\SQLi_1\SQLi_1\bin\Debug\SQLi_1.exe
+C:\Users\ilidioc\Desktop\Sample Projects\SQLi_1\SQLi_1\bin\Debug\SQLi_1.pdb
+C:\Users\ilidioc\Desktop\Sample Projects\SQLi_1\SQLi_1\obj\Debug\SQLi_1.csprojAssemblyReference.cache
+C:\Users\ilidioc\Desktop\Sample Projects\SQLi_1\SQLi_1\obj\Debug\SQLi_1.csproj.CoreCompileInputs.cache
+C:\Users\ilidioc\Desktop\Sample Projects\SQLi_1\SQLi_1\obj\Debug\SQLi_1.exe
+C:\Users\ilidioc\Desktop\Sample Projects\SQLi_1\SQLi_1\obj\Debug\SQLi_1.pdb
+C:\Users\ilidioc\Desktop\Goat Projects\SQLi_1\SQLi_1\bin\Debug\SQLi_1.exe.config
+C:\Users\ilidioc\Desktop\Goat Projects\SQLi_1\SQLi_1\bin\Debug\SQLi_1.exe
+C:\Users\ilidioc\Desktop\Goat Projects\SQLi_1\SQLi_1\bin\Debug\SQLi_1.pdb
+C:\Users\ilidioc\Desktop\Goat Projects\SQLi_1\SQLi_1\obj\Debug\SQLi_1.csprojAssemblyReference.cache
+C:\Users\ilidioc\Desktop\Goat Projects\SQLi_1\SQLi_1\obj\Debug\SQLi_1.csproj.CoreCompileInputs.cache
+C:\Users\ilidioc\Desktop\Goat Projects\SQLi_1\SQLi_1\obj\Debug\SQLi_1.exe
+C:\Users\ilidioc\Desktop\Goat Projects\SQLi_1\SQLi_1\obj\Debug\SQLi_1.pdb
